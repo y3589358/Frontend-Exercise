@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This Frontend project using ES6, React to build a user creation form
+This Frontend project using ES6, React and material-ui to build a user creation form.
 
 ## How to run?
 
