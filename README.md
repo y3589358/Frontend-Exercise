@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# App Documentation
 
 This Frontend project using ES6, React to build a user creation form
 
